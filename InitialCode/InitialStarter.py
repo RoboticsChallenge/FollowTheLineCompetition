@@ -48,6 +48,7 @@ def imageProccessing():
 
 while True:
     #write program for steering car. imageProccessing will return x and y value for circle that tracks center line on image
+    
     x, y = imageProccessing()
     HAL.setV(2) # to set the linear speed of car
     #HAL.setW(1) # to set the angular velocity of car
