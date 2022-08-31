@@ -1,6 +1,8 @@
 # Follow The Line Competition
 Competition in follow the line 
+- [x] Basic image proccessing completed 
 
+To start programing car, start at line 49 from https://github.com/RoboticsChallenge/FollowTheLineCompetition/blob/main/InitialCode/InitialStarter.py
 ## Current Record
     
 ### How to get Started in Windows
