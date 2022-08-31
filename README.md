@@ -2,9 +2,9 @@
 Competition in follow the line 
 - [x] Image proccessing completed 
 
-
+First section of progam sorts out imageproccessing.
 To start programing car, start at line 49 from https://github.com/RoboticsChallenge/FollowTheLineCompetition/blob/main/InitialCode/InitialStarter.py
-other code sorts out imageproccessing of the line.
+
 ## Current Record
     
 ### How to get Started in Windows
