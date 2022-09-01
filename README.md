@@ -8,8 +8,10 @@ First section of progam sorts out imageproccessing.
 To start programing car, start at line 49 from https://github.com/RoboticsChallenge/FollowTheLineCompetition/blob/main/InitialCode/InitialStarter.py
 
 ## Current Record
-#### minutes:seconds:miliseconds name (type of controller)
-04:07:0593 Fredrik Skavlem (Bang-bang Controller)
+| Time(min:sec:ms)| Name | Controller Type |  
+| --- | --- |
+
+| 04:07:0593 | Fredrik Skavlem | Bang-bang Controller |
     
 ### How to get Started in Windows
 #### install Docker
