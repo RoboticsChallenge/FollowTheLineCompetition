@@ -9,7 +9,7 @@ To start programing car, start at line 49 from https://github.com/RoboticsChalle
 
 ## Current Record
 | Time(min:sec:ms)| Name | Controller Type |  
-| --- | --- |
+
 
 | 04:07:0593 | Fredrik Skavlem | Bang-bang Controller |
     
