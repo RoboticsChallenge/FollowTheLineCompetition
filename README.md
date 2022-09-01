@@ -9,7 +9,7 @@ To start programing car, start at line 49 from https://github.com/RoboticsChalle
 
 ## Current Record
 
-04:07:0593 Fredrik Skavlem (Bang-bang Controller)
+04m:07s:0593ms Fredrik Skavlem (Bang-bang Controller)
     
 ### How to get Started in Windows
 #### install Docker
